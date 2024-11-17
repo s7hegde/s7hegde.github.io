@@ -26,4 +26,4 @@
 
 ## License
 
-Open sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
+Open sourced under the [MIT license](https://github.com/s7hegde/s7hegde.github.io/blob/main/LICENSE.md).
