@@ -1,6 +1,7 @@
 ---
-layout: category
+layout: page
 title: publications
-category: pubs
 permalink: /pubs
 ---
+
+https://pubmed.ncbi.nlm.nih.gov/?term=samarth+hegde&sort=date
