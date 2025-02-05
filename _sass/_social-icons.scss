@@ -54,11 +54,6 @@
   @include social-media-icon($medium-color, $icon-transition-time);
 }
 
-.fa-codepen {
-  padding: 5px;
-  @include social-media-icon($codepen-color, $icon-transition-time);
-}
-
 .fa-rss-square {
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
@@ -67,4 +62,9 @@
 .fa-bluesky {
   padding: 5px;
   @include social-media-icon($bluesky-color, $icon-transition-time);
+}
+
+.fa-x-twitter {
+  padding: 5px;
+  @include social-media-icon($x-twitter-color, $icon-transition-time);
 }
